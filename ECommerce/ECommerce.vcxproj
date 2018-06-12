@@ -151,7 +151,9 @@
     <ClInclude Include="ClientePersonal.h" />
     <ClInclude Include="Contrato.h" />
     <ClInclude Include="DataContext.h" />
+    <ClInclude Include="LineaPedido.h" />
     <ClInclude Include="MetodoPago.h" />
+    <ClInclude Include="Pedido.h" />
     <ClInclude Include="Producto.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -166,7 +168,9 @@
     <ClCompile Include="Contrato.cpp" />
     <ClCompile Include="DataContext.cpp" />
     <ClCompile Include="ECommerce.cpp" />
+    <ClCompile Include="LineaPedido.cpp" />
     <ClCompile Include="MetodoPago.cpp" />
+    <ClCompile Include="Pedido.cpp" />
     <ClCompile Include="Producto.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
