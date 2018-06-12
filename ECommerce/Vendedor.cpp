@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "Vendedor.h"
 
+int Vendedor::Id;
 
 Vendedor::Vendedor()
 {
