@@ -146,6 +146,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Categoria.h" />
+    <ClInclude Include="Cliente.h" />
+    <ClInclude Include="ClienteCorporativo.h" />
+    <ClInclude Include="ClientePersonal.h" />
     <ClInclude Include="Contrato.h" />
     <ClInclude Include="MetodoPago.h" />
     <ClInclude Include="Producto.h" />
@@ -156,6 +159,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Categoria.cpp" />
+    <ClCompile Include="Cliente.cpp" />
+    <ClCompile Include="ClienteCorporativo.cpp" />
+    <ClCompile Include="ClientePersonal.cpp" />
     <ClCompile Include="Contrato.cpp" />
     <ClCompile Include="ECommerce.cpp" />
     <ClCompile Include="MetodoPago.cpp" />
