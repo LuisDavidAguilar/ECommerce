@@ -150,6 +150,7 @@
     <ClInclude Include="ClienteCorporativo.h" />
     <ClInclude Include="ClientePersonal.h" />
     <ClInclude Include="Contrato.h" />
+    <ClInclude Include="DataContext.h" />
     <ClInclude Include="MetodoPago.h" />
     <ClInclude Include="Producto.h" />
     <ClInclude Include="stdafx.h" />
@@ -163,6 +164,7 @@
     <ClCompile Include="ClienteCorporativo.cpp" />
     <ClCompile Include="ClientePersonal.cpp" />
     <ClCompile Include="Contrato.cpp" />
+    <ClCompile Include="DataContext.cpp" />
     <ClCompile Include="ECommerce.cpp" />
     <ClCompile Include="MetodoPago.cpp" />
     <ClCompile Include="Producto.cpp" />
