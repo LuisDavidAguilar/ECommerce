@@ -15,7 +15,7 @@ public:
 #pragma endregion
 
 #pragma region Propiedades
-	int getIDCategoria();
+	int getId();
 	std::string getNombreCategoria();
 	
 	void setNombreCategoria(std::string NewNombreCategoria);

@@ -48,7 +48,7 @@ MetodoPago::~MetodoPago()
 
 #pragma region Propiedades
 
-int MetodoPago::getIdMetodoPago() const
+int MetodoPago::getId() const
 {
 	return idMetodoPago;
 }

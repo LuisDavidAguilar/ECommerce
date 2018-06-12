@@ -24,7 +24,7 @@ Producto::~Producto() {
 #pragma endregion
 
 #pragma region Propiedades
-int Producto::getIDProducto() {
+int Producto::getId() {
 	return iDProducto;
 }
 

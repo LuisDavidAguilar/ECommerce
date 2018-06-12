@@ -20,7 +20,7 @@ Categoria::~Categoria() {
 #pragma endregion
 
 #pragma region Propiedades
-int Categoria::getIDCategoria() {
+int Categoria::getId() {
 	return iDCategoria;
 }
 string Categoria::getNombreCategoria() {

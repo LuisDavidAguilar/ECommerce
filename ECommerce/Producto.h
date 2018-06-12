@@ -17,7 +17,7 @@ public:
 #pragma endregion
 
 #pragma region Propiedades
-	int getIDProducto();
+	int getId();
 	
 	std::string getNombreProducto();
 	void setNombreProducto(std::string NewNombreProducto);

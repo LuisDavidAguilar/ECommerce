@@ -24,7 +24,7 @@ public:
 
 #pragma	region Propiedades
 
-	int getIdMetodoPago() const;
+	int getId() const;
 	const std::string& getNumCuenta() const;
 	void setNumCuenta(const std::string&);
 	const std::string& getCLABE() const;
